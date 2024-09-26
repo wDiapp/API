@@ -14,7 +14,7 @@ Carro.init(
             primaryKey: true
         },
         Modelo: {
-            type: Seqieçoze.STRING,
+            type: Sequelize.STRING,
             allowNull: true,
         },
         Ano: {
